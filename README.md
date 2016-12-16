@@ -2,7 +2,7 @@
 Password Crypter.
 
 Sometimes, it is necessary to keep our credentials in secret, yet we all know that keeping this info in a 
-computer is not always a good idea. In this case we can a use "PASS-CRYPT". This tool is intended to be used a 
+computer is not always a good idea. In this case we can use "PASS-CRYPT". This tool is intended to be used as a 
 crypter of plain text. This is accomplished by using several algorithms that will generate a key, which 
 will then be used to "obf" the text.
 
@@ -39,8 +39,13 @@ FILES BREVIARY:
 
     decrypted.txt:	File containing the uncrypted plain text.
  
+To start the crypter simply:
+
+    sudo make PASS-CRYPT
+    sudo ./PASS-CRYPT
+ 
 Disclaimer: Keep all the passwords in a safe place. By studying the code, you can have complete control of the
-            key generation process. Use ascii characters only.
+            key generation process. Use ascii characters only. Try to use 'sudo' all the time.
              
 You can also crypt entire texts.
 
