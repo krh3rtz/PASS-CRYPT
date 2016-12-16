@@ -11,19 +11,19 @@ modified in order to have complete control of them throughout the process of key
 
     key:	The key provided by the user (completely randomized in lengh and characters).
    
-    By:	This is a number completely necessary for the process of key generation.
+    By:	    This is a number completely necessary for the process of key generation.
     
     A:	    Times to generate a routine (more info in the fi function in "lib/cr.h"). 
     
-    B: 	Key length.
+    B: 	    Key length.
     
     C:	    More info in "lib/cr.h" file.
     
 OPTIONS:
 
-    Crypt:   	Crypts all the data included in the "hello.txt".
+    Crypt:   	    Crypts all the data included in the "hello.txt".
 
-    Decrypt: 	Generates a "decrypted.txt" file with the original plain text from the "hello.txt" file.
+    Decrypt: 	    Generates a "decrypted.txt" file with the original plain text from the "hello.txt" file.
 
     Instructions:	Opens this info-file.
 
@@ -33,9 +33,9 @@ OPTIONS:
 
 FILES BREVIARY:
 
-    hello.txt:	File tha contains the original text to encrypt.
+    hello.txt:	    File tha contains the original text to encrypt.
 
-    obf.txt:	TXT containing the crypted text.
+    obf.txt:	    TXT containing the crypted text.
 
     decrypted.txt:	File containing the uncrypted plain text.
  
