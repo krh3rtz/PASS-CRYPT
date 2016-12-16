@@ -44,7 +44,7 @@ To start the crypter simply:
     sudo make PASS-CRYPT
     sudo ./PASS-CRYPT
  
-Disclaimer: Keep all the passwords in a safe place. By studying the code, you can have complete control of the
+Disclaimer: Keep all your credentials in a safe place. By studying the code, you can have complete control of the
             key generation process. Use ascii characters only. Try to use 'sudo' all the time.
              
 You can also crypt entire texts.
