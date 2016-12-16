@@ -10,7 +10,6 @@ To keep the integrity of data, and somehow avoid password cracking, there are se
 modified in order to have complete control of them throughout the process of key generation. Those variables are:
 
     key:	The key provided by the user (completely randomized in lengh and characters).
-    
     By:	This is a number completely necessary for the process of key generation.
     A:	    Times to generate a routine (more info in the fi function in "lib/cr.h"). 
     B: 	Key length.
