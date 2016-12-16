@@ -39,5 +39,7 @@ FILES BREVIARY:
  
  Disclaimer: Keep all the passwords in a safe place. By studying the code, you can have complete control of the
              key generation process. Use asscii characters only.
+             
+You can also crypt entire texts.
 
 By: Krhertz.
