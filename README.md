@@ -9,6 +9,8 @@ will then be used to "obf" the text.
 To keep the integrity of data, and somehow avoid password cracking, there are several variables that can be
 modified in order to have complete control of them throughout the process of key generation. Those variables are:
 
+
+
  key:	The key provided by the user (completely randomized in lengh and characters).
  By:	This is a number completely necessary for the process of key generation.
  A:	    Times to generate a routine (more info in the fi function in "lib/cr.h"). 
@@ -16,7 +18,11 @@ modified in order to have complete control of them throughout the process of key
  C:	    More info in "lib/cr.h" file.
     
 
+
+
 OPTIONS:
+
+
 
  Crypt:   	Crypts all the data included in the "hello.txt".
 
@@ -26,7 +32,11 @@ OPTIONS:
 
  Exit:		.
 
+
+
 FILES BREVIARY:
+
+
 
  hello.txt:	File tha contains the original text to encrypt.
 
