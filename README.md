@@ -17,12 +17,7 @@ modified in order to have complete control of them throughout the process of key
  B: 	Key length.
  C:	    More info in "lib/cr.h" file.
     
-
-
-
 OPTIONS:
-
-
 
  Crypt:   	Crypts all the data included in the "hello.txt".
 
@@ -35,8 +30,6 @@ OPTIONS:
 
 
 FILES BREVIARY:
-
-
 
  hello.txt:	File tha contains the original text to encrypt.
 
