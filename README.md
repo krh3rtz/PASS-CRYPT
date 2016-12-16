@@ -40,7 +40,7 @@ FILES BREVIARY:
     decrypted.txt:	File containing the uncrypted plain text.
  
 Disclaimer: Keep all the passwords in a safe place. By studying the code, you can have complete control of the
-            key generation process. Use asscii characters only.
+            key generation process. Use ascii characters only.
              
 You can also crypt entire texts.
 
