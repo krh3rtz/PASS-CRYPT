@@ -27,7 +27,7 @@ OPTIONS:
 
     Instructions:	Opens this info-file.
 
-    Exit:		.
+    Exit:		    .
 
 
 
