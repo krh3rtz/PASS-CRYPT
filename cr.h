@@ -1,7 +1,7 @@
 /*
  cr.h: This file contains all the functions used in the crypter.
  
- * Author Krhertz 2017
+ * Author Krhertz 2016
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
